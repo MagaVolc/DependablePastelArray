@@ -3,3 +3,4 @@ komanda = 'skrmnys'
 yhactniki = 'Белуга, hacker, skrmnys, Лев'
 admin_id = '1778259322'
 version = 'v1.4'
+#дальше листать некуда
